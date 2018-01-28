@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "license": "MIT",
+
+  "name": "hyperterm-ubuntu-theme",
+  "description": "An theme for Hyper Terminal",
+  "author": "Vladimir Zhdanov <vladimir@redline.kg>",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VLZH/hyperterm-ubuntu-theme"
+  },
+
+  "main": "index.js",
+
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "ubuntu",
+    "gnome",
+    "terminal",
+    "linux",
+    "theme"
+  ]
+}
